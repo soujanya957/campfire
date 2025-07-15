@@ -11,9 +11,11 @@ Campfire is a simple pixel-animated game for Android, designed and developed in 
 
 ## Screenshots
 
-![Campfire 1](Assets/media/Campfire%201.png)
-![Campfire 2](Assets/media/Campfire%202.png)
 ![Campfire 3](Assets/media/Campfire%203.png)
+
+![Campfire 2](Assets/media/Campfire%202.png)
+
+![Campfire 1](Assets/media/Campfire%201.png)
 
 ## Gameplay Video
 
